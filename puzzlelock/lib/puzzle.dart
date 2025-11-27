@@ -34,7 +34,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return const Scaffold(
       body: Center(
         child: Text(
-          'Puzzle Lock System',
+          'Puzzle Lock management',
           style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
         ),
       ),
