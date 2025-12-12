@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: const NumberPuzzleScreen(), // Set the home screen to NumberPuzzleScreen
-      debugShowCheckedModeBanner: false, // Remove the debug banner
-    );
+      debugShowCheckedModeBanner: false, // Remove the debug 
   }
 }
