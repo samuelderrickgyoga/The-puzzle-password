@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'puzzle.dart'; // Import your puzzle screen
-
+//main entry to the puzzle
 void main() {
   runApp(const MyApp());
 }
